@@ -11,7 +11,9 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "pug": "^2.0.4"
+    "pg": "^7.12.1",
+    "pug": "^2.0.4",
+    "sequelize": "^5.19.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
