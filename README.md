@@ -4,6 +4,9 @@ Getting Started With Express JS by Following the [Express.js & Node.js Course fo
 - Pug as Template Engine
 - PostgreSql as Database
 - Sequelize for NodeJS as ORM
+- Ajax calls for CRUD operations
+- Making Re-Usable Layout Files in Pug
+- Styling the application using ``Bootstrap 4.3``
 
 ## Setup Guide
 - Install ``Node >= v10.0``
