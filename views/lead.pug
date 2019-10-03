@@ -2,5 +2,8 @@ extends layout
 
 block content
     h1 Lead
-    p #{lead.email}
+    p
+        span #{lead.email}
+        | &nbsp;
+        a(href="/lead/" + lead.id + "/edit") Edit
     a(href="/leads") Back to Leads
