@@ -1,6 +1,8 @@
-extends layout
-
-block content
+doctype html
+html(lang='en')
+  include common/head.pug
+  +head("Starter MVP")
+  body
     h1 Lead
     p
         span #{lead.email}
@@ -11,3 +13,5 @@ block content
             button(type="submit") Delete
 
     a(href="/leads") Back to Leads
+    include common/footer.pug
+    +footer()
