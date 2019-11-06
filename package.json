@@ -6,14 +6,20 @@
     "start": "nodemon ./bin/www"
   },
   "dependencies": {
+    "bcrypt": "^3.0.6",
+    "connect-flash": "^0.1.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+    "express-sessions": "^1.0.6",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
     "pg": "^7.12.1",
     "pug": "^2.0.4",
-    "sequelize": "^5.19.2"
+    "sequelize": "^5.19.2",
+    "validator": "^12.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
