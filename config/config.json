@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "express-db",
+    "username": "postgres",
     "password": "password",
     "database": "express-db",
     "host": "127.0.0.1",
