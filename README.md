@@ -7,7 +7,9 @@ Getting Started With Express JS by Following the [Express.js & Node.js Course fo
 - Ajax calls for CRUD operations
 - Making Re-Usable Layout Files in Pug
 - Styling the application using ``Bootstrap 4.3``
-
+- Local auth strategy for Login and Signup using passport js
+- Form input validation and form re-render with error messages using validator and lodash
+-
 ## Setup Guide
 - Install ``Node >= v10.0``
 - Install ``PostgresSQL``
