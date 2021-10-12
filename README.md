@@ -1,16 +1,16 @@
 # Expressive-Express
-Getting Started With Express JS by Following the [Express.js & Node.js Course for Beginners Crash Course of FreeCodeCamp.org](https://youtu.be/G8uL0lFFoN0)
-- Implementation of CRUD Design Pattern
-- Pug as Template Engine
-- PostgreSql as Database
+Getting started with Express JS by following the [Express.js & Node.js Course for Beginners Crash Course of FreeCodeCamp.org](https://youtu.be/G8uL0lFFoN0)
+- Implementation of CRUD design pattern
+- Pug as template engine
+- PostgreSql as database
 - Sequelize for NodeJS as ORM
 - Ajax calls for CRUD operations
-- Making Re-Usable Layout Files in Pug
+- Making re-usable layout files in pug
 - Styling the application using ``Bootstrap 4.3``
-- Local auth strategy for Login and Signup using passport js
+- Local auth strategy for login and signup using passport js
 - Form input validation and form re-render with error messages using validator and lodash
-- Implmentation of Access Control Using a Middleware in ExpressJS
-- User Admin Based Permission to Access Content
+- Implmentation of access control using a middleware in ExpressJS
+- User admin based permission to access content
 ## Setup Guide
 - Install ``Node >= v10.0``
 - Install ``PostgresSQL``
